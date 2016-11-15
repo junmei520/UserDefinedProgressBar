@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.example.chenjunmei.animatondog.MainActivity">
+
+    <!--会动的小狗加载-->
+    <!--图片资源放在 drawable-xxhdpi 中-->
+    <!--动画的实现loading_list.xml-->
+    <ProgressBar
+        android:id="@+id/progressbar"
+        android:layout_centerInParent="true"
+        android:layout_width="100dp"
+        android:layout_height="110dp"
+        style="?android:progressBarStyleInverse"
+        android:indeterminateDrawable="@drawable/loading_list"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:textSize="16sp"
+        android:textColor="#000000"
+        android:text="努力加载中...."/>
+
+
+</LinearLayout>

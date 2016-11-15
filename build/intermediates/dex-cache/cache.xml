@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AfterProjectLocation\UserDefinedProgressBar\animatondog\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bf5aa3b026d5b5fd9f4ab5e8cf13499b9e016dfb">
+        <dex dex="D:\AfterProjectLocation\UserDefinedProgressBar\animatondog\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0-alpha2_24aac01100c5d32eac13460e90b561ea8472b4f3.jar" />
+    </item>
+    <item
+        jar="E:\ProgramFiles\eclipse_android\adt-bundle-windows-x64\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha2\support-annotations-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="D:\AfterProjectLocation\UserDefinedProgressBar\animatondog\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha2_06cce49e5632c2d2403acb1fe47e8350c9310428.jar" />
+    </item>
+    <item
+        jar="D:\AfterProjectLocation\UserDefinedProgressBar\animatondog\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="df7f6513d6e2aaa302bbac654807c6129b517090">
+        <dex dex="D:\AfterProjectLocation\UserDefinedProgressBar\animatondog\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0-alpha2_2625136fa313c60ee1140d73b247857d210481ad.jar" />
+    </item>
+    <item
+        jar="D:\AfterProjectLocation\UserDefinedProgressBar\animatondog\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\libs\internal_impl-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="D:\AfterProjectLocation\UserDefinedProgressBar\animatondog\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha2_785b785f0fa44868017952d029cfe5d92d71dd79.jar" />
+    </item>
+    <item
+        jar="D:\AfterProjectLocation\UserDefinedProgressBar\animatondog\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="D:\AfterProjectLocation\UserDefinedProgressBar\animatondog\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-alpha2_74f2d1bca87c53c0c293589c134c8e92baa8e849.jar" />
+    </item>
+    <item
+        jar="D:\AfterProjectLocation\UserDefinedProgressBar\animatondog\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="661a632c3b434991d6364690cbe0f786371101cc">
+        <dex dex="D:\AfterProjectLocation\UserDefinedProgressBar\animatondog\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0-alpha2_dbdf097f71a25c36b80a27de644cb37fef4342f4.jar" />
+    </item>
+
+</items>
